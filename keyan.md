@@ -13,9 +13,9 @@ title: Keyan
 **吉林大学** **A类** 2 篇（**中科院一区 TOP期刊**）；
 
 **吉林大学** **B类** 2 篇（《**管理科学**》、**Research in International Business and Finance**）等。
-<br>
 
 **部分代表性论文：**
+
 - **Kuo Zhou**, Haotian Luo, Zhi Qu, What can the environmental rule of law do for environmental innovation? Evidence from environmental tribunals in China, _Technological Forecasting and Social Change_, 2023, 189, 122377. (SSCI , 中科院一区TOP, IF: 10.884, 吉林大学A类)
 - **Kuo Zhou,** Haotian Luo, Diyu Ye, Yunqing Tao, The power of anti-corruption in environmental innovation: Evidence from a quasi-natural experiment in China, _Technological Forecasting and Social Change_, 2022, 182, 121831. (SSCI , 中科院一区TOP, IF: 10.884, 吉林大学A类)
 - Houbin Gao, Qi Ai , **Kuo Zhou**, Qiaochu Wang, Genetic distance and cross-border M&A completion: Evidence from Chinese firms, _Research in International Business and Finance_, 2023, 66, 101991. (SSCI , JCR一区, 中科院二区TOP, IF: 6.143, 吉林大学B类)
