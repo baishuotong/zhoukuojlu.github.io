@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /zhaosheng/index.html
-title: zhaosheng
+title: 招生简介
 ---
 
 ## 招生简介
@@ -19,7 +19,8 @@ title: zhaosheng
 <br>
 
 ### 联系我
-<br>
+
+<td>
 
 **[1] 微信**：zhou_jinzhu
 
