@@ -1,6 +1,5 @@
 ---
 layout: page
-title:个人主页
 ---
 
 ## 基本信息
@@ -22,8 +21,10 @@ title:个人主页
 [2] Research Policy、Finance Research Letters、Journal of Policy Analysis and Management、Economic Analysis and Policy、Growth and Change、外国经济与管理等期刊匿名审稿人
 <br>
 ## 团队新闻
-
+<br>
 **News！**（**2023/06**） 祝贺金祥慧、李欣儒同学的论文被SSCI期刊 (**JCR Q1**) Corporate Social Responsibility and Environmental Management录用！
+
+<br>
 **News！** （**2023/05**）祝贺王乔楚同学的论文被SSCI期刊 (**JCR Q1**) Research in International Business and Finance录用！
 <br>
 
@@ -47,10 +48,9 @@ title:个人主页
 - **周阔**,王瑞新,陶云清,郑逸婷.企业绿色化转型与股价崩盘风险.管理科学,2022,35(06):56-69. （CSSCI, 国自然基金委管理科学部认定A级重要期刊, 吉林大学B类）
 - 周佰成,**周阔***. 招股说明书可读性影响IPO抑价了吗.外国经济与管理, 2020, 42(03):104-117+135. （CSSCI, 国自然基金委管理科学部认定A级重要期刊, 吉林大学C类）
 - **周阔**, 周佰成.管理层语调对IPO抑价有影响吗？——来自中文招股说明书的经验证据.当代会计评论,2020,13(03):98-121. （CSSCI, 吉林大学D类）
-
-<br><br>
-
+<br>
 ## 招生简介
+
 
 **欢迎有明确学术研究意向的本科同学与我联系！**
 
