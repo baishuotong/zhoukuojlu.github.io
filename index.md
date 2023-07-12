@@ -8,7 +8,7 @@ layout: page
  - **Sep 2010 - June 2014:** 吉林大学经济学院金融学本科学位
 <img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="560"><br>
 - **Sep 2014 - June 2020:** 经济学（金融学专业）博士
- 在学期间曾获多项奖励，包括吉林大学校优秀学生、院优秀学生干部、学术业绩奖学金、优秀奖学金一等奖等奖励或荣誉称号。
+<br> 在学期间曾获多项奖励，包括吉林大学校优秀学生、院优秀学生干部、学术业绩奖学金、优秀奖学金一等奖等奖励或荣誉称号。
 - **Sep 2021 - now:** 吉林大学东北亚学院任职
 
 
