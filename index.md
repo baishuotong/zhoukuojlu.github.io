@@ -2,10 +2,9 @@
 layout: page
 ---
 
-# 基本信息
+## 基本信息
 
-<img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="600">
-
+<img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="600"><br>
  [周阔](https://nasa.jlu.edu.cn/info/1137/3895.htm)，1991 年7月生，经济学博士。
  - **Sep 2010 - June 2014:** 吉林大学经济学院金融学本科学位
 - **Sep 2014 - June 2020:** 经济学（金融学专业）博士
@@ -14,14 +13,14 @@ layout: page
 
 
 
-## 讲授课程
+### 讲授课程
+<br>
 金融学、微观经济学
 
-
-## 学术任职和服务
-
+### 学术任职和服务
+<br>
 [1] 吉林大学青年文化书院导师
-
+<br>
 [2] Research Policy、Finance Research Letters、Journal of Policy Analysis and Management、Economic Analysis and Policy、Growth and Change、外国经济与管理等期刊匿名审稿人
 <br>
 
