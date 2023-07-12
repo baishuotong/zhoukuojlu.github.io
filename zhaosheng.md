@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /zhaosheng/index.html
-title: 招生简介
+title: 招生情况
 ---
 
 ## 招生简介
@@ -19,8 +19,6 @@ title: 招生简介
 <br>
 
 ### 联系我
-
-
 **[1] 微信**：zhou_jinzhu
 
 **[2] QQ**：436061138
