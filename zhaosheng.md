@@ -20,11 +20,11 @@ title: 招生情况
 
 ### 联系我
 
-**[1] 微信**：zhou_jinzhu
+- **微信**：zhou_jinzhu
 
-**[2] QQ**：436061138
+- **QQ**：436061138
 
-**[3] 邮箱**：[zhoukuo@jlu.edu.cn](mailto:zhoukuo@jlu.edu.cn，zhoukuo2010@163.com)
+- **邮箱**：[zhoukuo@jlu.edu.cn](mailto:zhoukuo@jlu.edu.cn，zhoukuo2010@163.com)
 
-**[4] 公众号**：sprout_economics
+- **公众号**：sprout_economics
 
