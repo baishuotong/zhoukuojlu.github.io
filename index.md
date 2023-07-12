@@ -4,7 +4,7 @@ layout: page
 
 # 基本信息
 
-<img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="480">
+<img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="600">
 
  [周阔](https://nasa.jlu.edu.cn/info/1137/3895.htm)，1991 年7月生，经济学博士。
  - **Sep 2010 - June 2014:** 吉林大学经济学院金融学本科学位
