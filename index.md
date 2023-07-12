@@ -19,7 +19,7 @@ layout: page
 金融学、微观经济学
 
 ### 学术任职和服务
-[1] 吉林大学青年文化书院导师
+[1] 吉林大学青年文化书院导师<br>
 [2] Research Policy、Finance Research Letters、Journal of Policy Analysis and Management、Economic Analysis and Policy、Growth and Change、外国经济与管理等期刊匿名审稿人
 <br>
 

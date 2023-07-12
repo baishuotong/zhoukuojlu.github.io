@@ -19,7 +19,7 @@ title: 招生情况
 <br>
 
 ### 联系我
-**[1] 微信**：zhou_jinzhu
+<br>**[1] 微信**：zhou_jinzhu
 
 **[2] QQ**：436061138
 
