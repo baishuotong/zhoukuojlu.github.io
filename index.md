@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 基本信息
+### 基本信息
 
  [周阔](https://nasa.jlu.edu.cn/info/1137/3895.htm)，1991 年7月生，经济学博士。
  <img src="https://wangwangbest.github.io/zhoukuozhengjian.jpg" class="floatpic" width="360" height="560"><br>
